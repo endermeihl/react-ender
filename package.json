@@ -1,0 +1,26 @@
+{
+  "name": "react-ender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/endermeihl/react-ender.git"
+  },
+  "author": "ender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/endermeihl/react-ender/issues"
+  },
+  "homepage": "https://github.com/endermeihl/react-ender#readme",
+  "devDependencies": {
+    "babel-eslint": "^7.2.3",
+    "eslint": "^4.5.0",
+    "eslint-config-airbnb": "^15.1.0",
+    "eslint-config-google": "^0.9.1",
+    "webpack": "^3.5.5"
+  }
+}
