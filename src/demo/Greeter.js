@@ -1,6 +1,6 @@
 // Greeter.js
-module.exports = function() {
-    var greet = document.createElement('div');
+module.exports = function () {
+    let greet = document.createElement('div');
     greet.textContent = "Hi there and greetings!";
     return greet;
-  };
+};
