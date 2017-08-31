@@ -60,8 +60,5 @@ typings/
 .env
 
 
-.eslintrc.js
-.gitignore
 .idea/
 .vscode/
-dist/
